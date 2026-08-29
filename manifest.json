@@ -1,0 +1,16 @@
+{
+  "name": "Habilitação Operacional",
+  "short_name": "Habilitação",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0e0f18",
+  "theme_color": "#161826",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
