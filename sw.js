@@ -1,5 +1,5 @@
-const CACHE = 'hab-op-v2';
-const ARQUIVOS = ['./', './index.html', './manifest.json', './icon-180.png'];
+const CACHE = 'hab-op-v3';
+const ARQUIVOS = ['./', './index.html', './manifest.json', './icon-180.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ARQUIVOS)).then(() => self.skipWaiting()));
