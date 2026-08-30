@@ -1,0 +1,49 @@
+Rastreador de Horas Operacionais
+Copyright (c) 2026 Marcelo da Rocha. Todos os direitos reservados.
+
+Autor e titular: Marcelo da Rocha
+Contato: baxada1.marcelo@gmail.com
+
+TERMOS DE USO
+
+Este programa de computador, seu código-fonte, sua interface, sua estrutura
+de telas e sua documentação são obra intelectual de Marcelo da Rocha,
+protegida pela Lei nº 9.610/1998 (Direitos Autorais) e pela Lei nº 9.609/1998
+(Proteção da Propriedade Intelectual de Programa de Computador).
+
+1. PERMITIDO
+   Uso pessoal e individual do aplicativo, sem custo, para controle das
+   próprias horas de habilitação operacional.
+
+2. PROIBIDO SEM AUTORIZAÇÃO ESCRITA DO AUTOR
+   a) copiar, reproduzir ou hospedar o aplicativo, total ou parcialmente,
+      em outro endereço, repositório ou plataforma;
+   b) modificar, adaptar, traduzir, descompilar ou criar obra derivada;
+   c) redistribuir, publicar, sublicenciar, ceder ou disponibilizar a
+      terceiros, gratuitamente ou não;
+   d) vender, licenciar, alugar, anunciar ou explorar comercialmente o
+      aplicativo, ou qualquer produto ou serviço derivado dele;
+   e) remover, ocultar ou alterar os avisos de autoria e de direitos
+      autorais presentes no aplicativo ou neste arquivo.
+
+3. AUTORIZAÇÃO
+   Qualquer uso previsto no item 2 depende de autorização prévia, expressa
+   e por escrito do autor, obtida pelo contato indicado acima. A autorização
+   pode envolver contrapartida financeira, a critério exclusivo do autor.
+
+4. RESERVA DE DIREITOS
+   Nenhum direito é cedido ou licenciado além do uso pessoal descrito no
+   item 1. O silêncio ou a tolerância do autor quanto a qualquer uso
+   irregular não implica autorização, renúncia ou novação.
+
+5. AUSÊNCIA DE GARANTIA
+   O aplicativo é fornecido "no estado em que se encontra", sem garantia de
+   qualquer natureza. O autor não responde por decisões administrativas,
+   perdas de dados ou prejuízos decorrentes do uso. A conferência dos dados
+   e o cumprimento das exigências regulamentares são responsabilidade
+   exclusiva do usuário.
+
+6. DADOS
+   O aplicativo não coleta, transmite nem armazena dados em servidores.
+   Todas as informações lançadas permanecem no armazenamento local do
+   navegador do próprio usuário.
