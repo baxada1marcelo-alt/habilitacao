@@ -1,4 +1,4 @@
-const CACHE = 'hab-op-v6';
+const CACHE = 'hab-op-v7';
 const ARQUIVOS = ['./', './index.html', './manifest.json', './icon-180.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
